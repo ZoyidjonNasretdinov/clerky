@@ -129,3 +129,32 @@ body {
 .about__wrapper:nth-child(2) {
     flex-direction: row-reverse;
 }
+
+/* partners */
+
+.partners {
+    padding-top: 113px;
+    padding-bottom: 120px;
+    background-color: #fff;
+}
+
+
+.partners__title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.partners__list {
+    display: flex;
+    justify-content: center;
+    gap: 87px;
+    align-items: center;
+}
+
+.partners__link img {
+    width: 110px;
+}
