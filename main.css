@@ -229,3 +229,40 @@ body {
     letter-spacing: 0%;
     text-align: center;
 }
+
+/* scenes */
+
+.scenes {
+    padding-top: 180px;
+    padding-bottom: 120px;
+    background-color: #fff;
+}
+
+.scenes__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.scenes__content {
+    width: 393px;
+}
+
+.scenes__title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    letter-spacing: 0%;
+    margin-bottom: 27px;
+    margin-right: 55px;    
+}
+
+
+.scenes__desc {
+    font-family: Noto Sans;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    
+}
